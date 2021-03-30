@@ -8,7 +8,7 @@ To build an e-commerce portal that lets people shop basic food items on their we
  Once a person selects an item to purchase, they will be redirected to the list of available items. In the
 next page, they are shown the complete breakout of the order and details of the payment to be made in
 the payment gateway. When payment is done, they are shown a confirmation page with details of the
-order.
+order.</br>
 For the above features to work, there will be an admin backend with the following features:
  Admin login page where admin can change password after login if he wants to
  A master list of food items available for purchase
